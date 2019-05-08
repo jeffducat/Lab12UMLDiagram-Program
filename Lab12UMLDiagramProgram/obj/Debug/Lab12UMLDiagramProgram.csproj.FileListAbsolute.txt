@@ -1,0 +1,7 @@
+C:\Users\jduca\source\repos\Lab12UMLDiagramProgram\Lab12UMLDiagramProgram\obj\Debug\Lab12UMLDiagramProgram.csprojAssemblyReference.cache
+C:\Users\jduca\source\repos\Lab12UMLDiagramProgram\Lab12UMLDiagramProgram\obj\Debug\Lab12UMLDiagramProgram.csproj.CoreCompileInputs.cache
+C:\Users\jduca\source\repos\Lab12UMLDiagramProgram\Lab12UMLDiagramProgram\bin\Debug\Lab12UMLDiagramProgram.exe.config
+C:\Users\jduca\source\repos\Lab12UMLDiagramProgram\Lab12UMLDiagramProgram\bin\Debug\Lab12UMLDiagramProgram.exe
+C:\Users\jduca\source\repos\Lab12UMLDiagramProgram\Lab12UMLDiagramProgram\bin\Debug\Lab12UMLDiagramProgram.pdb
+C:\Users\jduca\source\repos\Lab12UMLDiagramProgram\Lab12UMLDiagramProgram\obj\Debug\Lab12UMLDiagramProgram.exe
+C:\Users\jduca\source\repos\Lab12UMLDiagramProgram\Lab12UMLDiagramProgram\obj\Debug\Lab12UMLDiagramProgram.pdb
